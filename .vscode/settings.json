@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/easwica/.pyenv/versions/3.7.4/envs/1touch_3.7.4/bin/python"
+}
